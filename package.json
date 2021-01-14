@@ -1,0 +1,24 @@
+{
+  "name": "npms-io",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/npms-io/issues"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/npms-io#readme",
+  "keywords": ["npms", "npm"],
+  "license": "MPL-2.0",
+  "main": "lib.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/npms-io.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
